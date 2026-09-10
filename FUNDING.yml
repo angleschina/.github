@@ -1,0 +1,9 @@
+# Angles 赞助入口
+# 组织级默认配置：对本组织下所有未单独配置 FUNDING.yml 的仓库生效，
+# GitHub 会在仓库页顶部显示 Sponsor 按钮。
+#
+# 说明：GitHub Sponsors 的收款地区不包含中国大陆，因此使用 custom 指向
+# 含支付宝赞赏码的赞助页面。
+custom:
+  - "https://angleschina.github.io/#donate"
+  - "https://github.com/angleschina/.github/blob/main/SPONSOR.md"
